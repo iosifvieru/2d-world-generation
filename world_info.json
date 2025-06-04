@@ -1,0 +1,13 @@
+{
+	"domain_warp_amplitude": 30,
+	"domain_warp_enabled": false,
+	"fractal_type": 1,
+	"frequency": 0.0152000002563,
+	"gain": 0.5,
+	"lacunarity": 2,
+	"noise_type": 3,
+	"octaves": 5,
+	"ping_pong_strength": 2,
+	"seed": 1917266871,
+	"weighted_strength": 0
+}
